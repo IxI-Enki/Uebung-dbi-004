@@ -15,3 +15,12 @@ Erstellen Sie für das im Folgenden Beschriebene Szenario "Handelsbetrieb":
 ## Entity Relation Diagram & Relationmodel
                 ( Wahrscheinlich noch nicht so toll .. too tired now )
 ![Handelsbetrieb drawio](https://github.com/IxI-Enki/Uebung-dbi-004/assets/138018029/87d7cb51-49f5-4db5-bda3-f51490a634c8)
+
+## Oracle SQL Developer
+![developer 01](https://github.com/IxI-Enki/Uebung-dbi-004/assets/138018029/cb71aa5f-e66d-4d82-88df-96768309a1a1)
+![developer 02](https://github.com/IxI-Enki/Uebung-dbi-004/assets/138018029/7d0523fd-7f82-4488-a3d7-c15a29d8cb7f)
+
+
+## Ausgabe
+![AUSGABE](https://github.com/IxI-Enki/Uebung-dbi-004/assets/138018029/498b698c-0393-498c-81e2-636f0ce9d71b)
+
