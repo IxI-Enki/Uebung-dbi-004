@@ -47,19 +47,19 @@ insert into HERSTELLER VALUES (3,'UHU');
 insert into STELLT_HER VALUES (1,2,2);
 insert into STELLT_HER VALUES (2,3,3);
 insert into STELLT_HER VALUES (3,1,1);
-
-/*           EINKÄUFE                                                                                                           */
+/*           EINKÃ„UFE                                                                                                           */
 insert into EINKAUF VALUES (1,1,1);
 insert into EINKAUF VALUES (2,2,2);
 insert into EINKAUF VALUES (3,3,3);
 insert into EINKAUF VALUES (4,2,1);
 insert into EINKAUF VALUES (5,1,3);
-/*           VERKÄUFE                                                                                                           */
+/*           VERKÃ„UFE                                                                                                           */
 insert into VERKAUF VALUES (1,1,3);
 insert into VERKAUF VALUES (2,2,1);
 insert into VERKAUF VALUES (3,1,3);
 insert into VERKAUF VALUES (4,3,1);
 insert into VERKAUF VALUES (5,3,2);
+
           -- output tables --                                                             
 select * from KUNDE;
 select * from BESTELLUNG;
