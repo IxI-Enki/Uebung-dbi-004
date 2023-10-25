@@ -1,6 +1,6 @@
-/*     UEBUNG-004 -- HANDELSBETRIEB     */
-/*       3ACIFT        JAN RITT         */
-/* Description: Simple Sales Database   */
+/*                                                 UEBUNG-004 -- HANDELSBETRIEB                                                 */
+/*                                                   3ACIFT        JAN RITT                                                     */
+/*                                        Description:     Simple Sales Database                                                */
  
 /*        -- delete existing/conflicting tables --
 drop table VERKAUF; drop table EINKAUF; drop table STELLT_HER; drop table HERSTELLER; 
