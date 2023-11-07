@@ -13,7 +13,7 @@ Erstellen Sie für das im Folgenden Beschriebene Szenario "Handelsbetrieb":
 ## . . . . . . . . . .... [SPOILER] .... . . . . . . . . 
 
 ## Entity Relation Diagram & Relationmodel
-![ERD   Relationenmodel -- Handelsbetrieb](https://github.com/IxI-Enki/Uebung-dbi-004/assets/138018029/6abeb772-df85-4398-940e-59bc8b7d1bc0)
+![ERD   Relationenmodel -- Handelsbetrieb](https://github.com/IxI-Enki/Uebung-dbi-004/assets/138018029/4f431526-dfec-4a72-b2d3-938e9de7309b)
 
 
 ## Oracle SQL Developer
